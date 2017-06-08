@@ -5,7 +5,7 @@ export class student {
     }
 
     display(){
-        console.log("sno: "+ sno + " name: " + name);
+        console.log("sno: "+ this.sno + " name: " + this.name);
         
 
     }
